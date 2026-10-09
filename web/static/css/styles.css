@@ -1,0 +1,1 @@
+body,html{margin:0;padding:0;height:100%;font-family:system-ui,sans-serif} .app{display:flex;height:100vh} #sidebar{width:380px;overflow-y:auto;border-right:1px solid #eee} #map{flex:1} .sidebar-header{padding:12px;border-bottom:1px solid #eee} #list .item{padding:10px 12px;border-bottom:1px solid #f3f3f3;cursor:pointer} #list .item:hover{background:#fafafa}
